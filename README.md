@@ -29,11 +29,12 @@ Al finalizar el curso, el estudiante va a poder:
 - Modelos de forecasting:
   - Suavizado Exponencial Simple (SES).
   - Holt.
+  - Prophet.
 - Modelos complementarios:
   - OLS.
   - ARIMA.
   - XGBoost.
-  - Prophet.
+  
 - Validación cruzada de series de tiempo.
 - Comparación de modelos.
 
