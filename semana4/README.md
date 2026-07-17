@@ -1,11 +1,11 @@
+# ⭐ Semana 4 - Sistemas de Recomendación
 
-# 💬 Semana 4 - 
+Materiales de la cuarta semana del curso **Big Data Aplicada a los Negocios (UDLA)**.
 
-Materiales de la tercera semana del curso **Big Data Aplicada a los Negocios (UDLA)**.
+> **Casos de negocio:** StreamAR y ModaIA
 
-> **:** 
+Durante esta semana aprenderemos a diseñar e implementar sistemas de recomendación utilizados por plataformas digitales para personalizar la experiencia de los usuarios. Exploraremos técnicas de filtrado colaborativo, modelos basados en contenido y enfoques híbridos, analizando cómo las recomendaciones pueden incrementar el valor de negocio mediante una mejor comprensión de las preferencias de los consumidores.
 
-Durante esta semana aprenderemos
 ---
 
 ## 📚 Notas de Clase
@@ -55,5 +55,13 @@ Durante esta semana aprenderemos
 
 ## 🎯 Objetivos de la Semana
 
+Al finalizar esta semana, el estudiante será capaz de:
+
+- Comprender los fundamentos de los sistemas de recomendación utilizados en plataformas digitales.
+- Implementar modelos de filtrado colaborativo y recomendaciones basadas en contenido.
+- Evaluar el desempeño de sistemas de recomendación utilizando métricas apropiadas.
+- Analizar las preferencias de los usuarios para generar recomendaciones personalizadas.
+- Diseñar soluciones de recomendación con impacto en indicadores de negocio como engagement, retención y satisfacción del cliente.
+- Comunicar resultados técnicos y justificar la elección de distintos enfoques de recomendación en escenarios reales.
 
 ---
