@@ -63,6 +63,7 @@ Cada semana del curso incluye:
 - Random Forest.
 - Gradient Boosting y XGBoost.
 - Interpretación y evaluación de modelos.
+- Manejo de desbalance de clases: undersampling, oversampling, SMOTE.
 - Caso de negocio: **Hospital San Martín**.
 
 > Ir a la carpeta `semana2`.
