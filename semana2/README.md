@@ -10,6 +10,13 @@ Durante esta semana aprenderemos a construir modelos de clasificación supervisa
 
 ## 📚 Notas de Clase
 
+- 🎞️ **Presentación de clase**
+  - [Descargar aquí]()
+
+---
+
+## 📚 Notas de Clase
+
 - 📖 **Guía de Lectura**
   - [Descargar aquí](https://drive.google.com/file/d/1UECchEpF90e1WdQo5p1W5spklmo-D4OK/view?usp=sharing)
 
