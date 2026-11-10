@@ -3,6 +3,12 @@
 Materiales de la primera semana del curso **Big Data Aplicada a los Negocios (UDLA)**.
 
 > **Caso de negocio:** InvestAR Capital
+---
+
+## 📚 Notas de Clase
+
+- 🎞️ **Presentación de clase**
+  - [Descargar aquí]()
 
 ---
 
