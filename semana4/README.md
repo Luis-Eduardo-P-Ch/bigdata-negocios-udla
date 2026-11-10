@@ -10,6 +10,13 @@ Durante esta semana aprenderemos a diseñar e implementar sistemas de recomendac
 
 ## 📚 Notas de Clase
 
+- 🎞️ **Presentación de clase**
+  - [Descargar aquí]()
+
+---
+
+## 📚 Notas de Clase
+
 - 📖 **Guía de Lectura**
   - [Descargar aquí](https://drive.google.com/file/d/1oILGxGplQjEtYad7TQW8xu0nMUD_q5Yt/view?usp=sharing)
 
