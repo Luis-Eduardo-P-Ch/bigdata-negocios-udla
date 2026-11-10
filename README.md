@@ -24,6 +24,7 @@ Al finalizar el curso, el estudiante será capaz de:
 
 Cada semana del curso incluye:
 
+- 🎞️ Presentación de clase con la explicación de los algoritmos y ejemplos resueltos paso a paso.
 - 📖 Guía de lectura teórica.
 - 💻 Notebook(s) de clase con resultados reales.
 - 📝 Dos tareas grupales.
