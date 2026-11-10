@@ -10,6 +10,13 @@ Durante esta semana aprenderemos a transformar datos textuales en información �
 
 ## 📚 Notas de Clase
 
+- 🎞️ **Presentación de clase**
+  - [Descargar aquí]()
+
+---
+
+## 📚 Notas de Clase
+
 - 📖 **Guía de Lectura**
   - [Descargar aquí](https://drive.google.com/file/d/1940ZbO__bG0lPYnjAZrfMky38WIKY0wt/view?usp=sharing)
 
