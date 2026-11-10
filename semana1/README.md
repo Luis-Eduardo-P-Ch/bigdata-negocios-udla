@@ -8,11 +8,7 @@ Materiales de la primera semana del curso **Big Data Aplicada a los Negocios (UD
 ## 📚 Notas de Clase
 
 - 🎞️ **Presentación de clase**
-  - [Descargar aquí]()
-
----
-
-## 📚 Notas de Clase
+  - [Descargar aquí](https://drive.google.com/file/d/1aa903BFfk0goFhi0pclJrzVDAVFK18AP/view?usp=sharing)
 
 - 📖 **Guía de Lectura**
   - [Descargar aquí](https://drive.google.com/file/d/1s_UbsVQcTzG-IyLrgR-qIkJu341exr9C/view?usp=drive_link)
